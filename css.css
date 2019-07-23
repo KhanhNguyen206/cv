@@ -1,0 +1,87 @@
+main{
+    font-size: 18px;
+}
+
+#information{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 30%;
+    height: 100%;
+    background: gainsboro;
+}
+
+h1,h2{
+    color: cornflowerblue;
+}
+
+#img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 30%;
+    background-color: cornflowerblue;
+}
+
+#name{
+    position: absolute;
+    top: 28%;
+    left: 0px;
+    width: 100%;
+    height: 6%;
+}
+#contact{
+    position: absolute;
+    top: 36%;
+    left: 0px;
+    width: 100%;
+    height: 10%;
+}
+
+#skill{
+    position: absolute;
+    top: 65%;
+    left: 0px;
+    width: 100%;
+    height: 30%;
+}
+
+#exp{
+    position: absolute;
+    top: 0px;
+    left: 30%;
+    width: 70%;
+    height: 100%;
+}
+
+#certificate{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 25%;
+}
+
+#experience{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    width: 100%;
+    height: 25%;
+}
+
+#purpose{
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    width: 100%;
+    height: 25%;
+}
+#anything{
+    position: absolute;
+    top: 75%;
+    left: 0%;
+    width: 100%;
+    height: 25%;
+}
